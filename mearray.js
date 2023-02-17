@@ -1,3 +1,3 @@
-const myJSON = '["Ford", "BMW", "Fiat"]';
+const myJSON = '["Ford", "BMW", "Fiat", "tes"]';
 const myArray = JSON.parse(myJSON);
 document.getElementById("demo").innerHTML = myArray;
